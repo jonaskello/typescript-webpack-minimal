@@ -1,0 +1,11 @@
+**/.idea/workspace.xml
+**/.idea/tasks.xml
+.idea/terminal.xml
+.DS_Store
+thumbs.db
+*.log
+node_modules/
+example/js_out
+dist/
+lib/
+.vscode/
