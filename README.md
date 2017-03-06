@@ -1,6 +1,6 @@
 
 # typescript-webpack-minimal
-Experimenting with some bucklescript, reasonml and rehydrate
+Mininal setup for using typescript with webpack
 
 # How to use
 
