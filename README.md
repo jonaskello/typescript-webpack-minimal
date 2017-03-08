@@ -18,7 +18,7 @@ The setup can be reproduced by running these commands:
 mkdir typescript-webpack-minimal
 cd typescript-webpack-minimal
 yarn init -y
-yarn add typescript webpack ts-loader webpack-dev-server
+yarn add --dev typescript webpack ts-loader webpack-dev-server
 ./node_modules/typescript/bin/tsc --init
 ```
 

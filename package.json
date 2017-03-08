@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-  "dependencies": {
+  "devDependencies": {
     "ts-loader": "^2.0.1",
     "typescript": "^2.2.1",
     "webpack": "^2.2.1",
