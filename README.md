@@ -37,6 +37,9 @@ Create webpack.config.js
 var path = require("path");
 
 module.exports = {
+  resolve: {
+    extensions: ['.ts', '.tsx', '.js']
+  },
   entry: "./src/index.tsx",
   output: {
     filename: "bundle.js",
